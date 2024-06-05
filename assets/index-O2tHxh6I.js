@@ -1,0 +1,1 @@
+import{d as o,c as s,a as n,b as t,o as a}from"./index-GUy3qjYq.js";const r={class:""},i=o({__name:"index",setup(c){return(_,p)=>{const e=t("m-progress");return a(),s("div",r,[n(e,{percentage:60,isAnimation:""})])}}});export{i as default};
